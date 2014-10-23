@@ -7,7 +7,7 @@
      "http://*/"
  	],
  	"browser_action": {
- 		/*"default_icon": "circle_grey.png",*/
+ 		"default_icon": "circle_grey.png",
  		"default_popup": "popup.html"
  	}
  }
