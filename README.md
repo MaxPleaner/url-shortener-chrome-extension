@@ -1,7 +1,7 @@
 url-shortener-chrome-extension
 ==============================
 
-This is my first chrome extension :)
+This is my first chrome extension
 
 The url shortener site it connects to is at http://github.com/maxpleaner/url-shortener
 
